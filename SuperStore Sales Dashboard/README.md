@@ -2,7 +2,7 @@
 
 
 ## About The Project
-This Power BI dashboard provides a comprehensive view of sales performance for a superstore. It was developed to track and analyze sales data to help drive strategic decision-making, optimize operations, and boost profitability. Additionally, the dashboard utilizes time series analysis to forecast sales for the next 30 days, offering predictive insights that aid in proactive business planning and resource management.
+This Power BI dashboard provides a comprehensive view of sales performance for a superstore. It was developed to track and analyze sales data to help drive strategic decision-making, optimize operations, and boost profitability. Additionally, the dashboard utilizes time series analysis to forecast sales for the next **30 days**, offering predictive insights that aid in proactive business planning and resource management.
 
 
 
