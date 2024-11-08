@@ -1,3 +1,9 @@
+# Superstore Sales Dashboard
+
+## About The Project
+This Power BI dashboard provides a comprehensive view of sales performance for a superstore. It was developed to track and analyze sales data to help drive strategic decision-making, optimize operations, and boost profitability.
+
+
 ## Dataset Overview
 The dataset used in the Superstore Sales Dashboard includes a comprehensive list of sales transactions with the following fields:
 
