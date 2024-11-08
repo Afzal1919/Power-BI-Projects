@@ -38,3 +38,11 @@ Here is an example of how the data appears in the dataset:
 | CA-2019-160304 | 01-01-2019 | 07-01-2019 | Standard Class  | BM-11575    | Brendan Murry  | Corporate | United States | Gaithersburg  | Maryland  | East   | FUR-BO-10004709   | Furniture | Bookcases    | Bush Westfield Collection Bookcases/Medium Cherry | 73.94 | 1        | 28.27  | 0       | Online       |
 
 This sample provides a clear snapshot of the type of data you can expect in the complete dataset, facilitating a better understanding and analysis.
+
+
+## Steps Involved in the Analysis
+1. **Loaded and Transformed Data**: The raw data was imported into Power BI and transformed to a format suitable for analysis.
+2. **Added Relevant Columns Using DAX**: New columns, such as "Average Delivery Time," were created to enhance the data's analytical value.
+3. **Crafted Engaging Visuals**: Various visuals like area charts, donut charts, and cards were used to represent the data effectively.
+4. **Sales Forecast**: Implemented a model to forecast sales for the next 15 days based on historical data.
+
