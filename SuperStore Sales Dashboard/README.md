@@ -44,5 +44,6 @@ This sample provides a clear snapshot of the type of data you can expect in the 
 1. **Loaded and Transformed Data**: The raw data was imported into Power BI and transformed to a format suitable for analysis.
 2. **Added Relevant Columns Using DAX**: New columns, such as "Average Delivery Time," were created to enhance the data's analytical value.
 3. **Crafted Engaging Visuals**: Various visuals like area charts, donut charts, and cards were used to represent the data effectively.
-4. **Sales Forecast**: Implemented a model to forecast sales for the next 15 days based on historical data.
+4. **Sales Forecast**: Implemented time series analysis to forecast sales for the next 30 days based on historical data.
+
 
