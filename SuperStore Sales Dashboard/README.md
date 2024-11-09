@@ -74,19 +74,25 @@ The SuperStore Sales Dashboard provides the following key insights and visualiza
    - **Sales by Ship Mode**: Examines the popularity of shipping options (Standard Class, Second Class, First Class, Same Day).
    - **Profit and Sales by State**: Displays a map of profit distribution, helping to identify high-revenue areas.
 
-## 🔍 Key Insights
+# Super Store 30-Day Sales Forecast Dashboard
 
-- **Regional Performance**: The West region has the highest sales share (33%), while the South region has the lowest (16%), indicating potential growth opportunities in the South.
-- **Payment Preferences**: COD is the preferred payment mode (43%), which may suggest customer hesitancy toward online transactions.
-- **Segment Dominance**: The Consumer segment is the largest, accounting for 48% of total sales.
-- **Category Sales**: Office Supplies is the top-selling category, indicating demand from corporate or business customers.
-- **Shipping Preferences**: Standard Class is the most popular shipping mode, while Same Day has the lowest share, reflecting cost sensitivity in shipping choices.
+This repository hosts an interactive sales forecast dashboard for a retail superstore chain, designed to provide detailed predictions for the next 30 days alongside comprehensive historical sales analysis.
 
-## 💡 Additional Observations
+![Forecast Dashboard](./path_to_forecast_dashboard_image/Forecast_Dashboard.png) <!-- Replace with actual path -->
 
-- **Seasonal Trends**: Both sales and profits tend to increase significantly in November and December, likely due to holiday shopping.
-- **Potential Growth in Online Payment**: Since COD is highly favored, consider strategies to encourage online payments, such as offering discounts or loyalty rewards.
-- **Focus on Consumer Segment**: As the Consumer segment contributes almost half of the sales, personalized marketing and loyalty programs may help retain this customer base and increase purchase frequency.
+## 📊 Dashboard Overview
 
-## 📂 Repository Structure
+The dashboard is structured into several key components to aid in strategic and operational planning:
+
+![Alt text](https://github.com/Afzal1919/Power-BI-Projects/blob/main/SuperStore%20Sales%20Dashboard/Forecasting.png?raw=true)
+
+1. **30-Day Sales Forecast with Interactive Slider**:
+   - Provides a dynamic forecast that spans a 30-day period. The interactive slider allows users to focus on any specific 30-day window within the larger dataset, offering a detailed view of daily sales projections.
+   - **Enhancement**: The slider tool refines the visualization granularity, facilitating a closer examination of sales trends on a day-to-day basis.
+
+2. **Historical Sales Trends**:
+   - Traces sales performance from January 2019 through January 2021, revealing patterns and growth trends that underpin the forecast model.
+
+3. **Sales by State**:
+   - Details sales distribution across various states, highlighting regional market performance and identifying focus areas for strategic initiatives.
 
