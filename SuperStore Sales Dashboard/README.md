@@ -137,7 +137,5 @@ Contributions to this repository are welcome. Please follow the standard fork-an
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
----
 
-For any questions or additional information, feel free to contact the project maintainers.
 
