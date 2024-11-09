@@ -74,15 +74,10 @@ The SuperStore Sales Dashboard provides the following key insights and visualiza
    - **Sales by Ship Mode**: Examines the popularity of shipping options (Standard Class, Second Class, First Class, Same Day).
    - **Profit and Sales by State**: Displays a map of profit distribution, helping to identify high-revenue areas.
 
-# Super Store 30-Day Sales Forecast Dashboard
+## Super Store 30-Day Sales Forecast Dashboard
 
 This repository hosts an interactive sales forecast dashboard for a retail superstore chain, designed to provide detailed predictions for the next 30 days alongside comprehensive historical sales analysis.
 
-![Forecast Dashboard](./path_to_forecast_dashboard_image/Forecast_Dashboard.png) <!-- Replace with actual path -->
-
-## 📊 Dashboard Overview
-
-The dashboard is structured into several key components to aid in strategic and operational planning:
 
 ![Alt text](https://github.com/Afzal1919/Power-BI-Projects/blob/main/SuperStore%20Sales%20Dashboard/Forecasting.png?raw=true)
 
